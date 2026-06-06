@@ -1,6 +1,6 @@
 # Hide Panel on Lock Screen
 
-A GNOME Shell extension that hides the GNOME top bar panel while the session is locking.
+A GNOME Shell extension that hides the GNOME top bar when the session is locked.
 
 ---
 
