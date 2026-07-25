@@ -3,5 +3,6 @@
   "description": "Hide GNOME top bar panel while session is locking",
   "uuid": "Hide-Lock-Panel@Ciferatorium",
   "shell-version": [ "45", "46", "47", "48", "49", "50" ],
-  "session-modes": [ "unlock-dialog" ]
+  "session-modes": [ "unlock-dialog" ],
+  "version": 1
 }
