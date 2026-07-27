@@ -19,6 +19,10 @@ A GNOME Shell extension that hides the GNOME top bar when the session is locked.
 
 ## Installation
 
+### extensions.gnome.org (recommended)
+
+Search for **Hide Panel on Lock Screen** on [extensions.gnome.org](https://extensions.gnome.org), or install it from [Extension Manager](https://github.com/mjakeman/extension-manager). GNOME keeps the extension up to date automatically.
+
 ### Manual
 
 ```bash
@@ -34,8 +38,6 @@ Then log out and log back in (required on Wayland), and enable the extension:
 ```bash
 gnome-extensions enable Hide-Lock-Panel@Ciferatorium
 ```
-
-Or enable it via [GNOME Extensions](https://extensions.gnome.org) app or [Extension Manager](https://github.com/mjakeman/extension-manager).
 
 ---
 
